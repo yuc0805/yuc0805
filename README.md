@@ -37,4 +37,4 @@ I am a first-year Data Science Master’s student at UC San Diego. My research i
 </div>
 
 ### Github Status :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yuc0805&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leochen0912&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
